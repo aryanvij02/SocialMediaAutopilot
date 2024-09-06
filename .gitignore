@@ -1,3 +1,5 @@
+.env
+AIVideoGeneration/.env
 node_modules
 node_modules/puppeteer/.local-chromium/
 oldVideos/
