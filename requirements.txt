@@ -1,0 +1,10 @@
+openai
+pydantic
+boto3
+python-dotenv
+requests
+moviepy
+pysrt
+Pillow
+numpy
+srt

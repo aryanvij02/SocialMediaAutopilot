@@ -1,0 +1,19 @@
+node_modules
+node_modules/puppeteer/.local-chromium/
+oldVideos/
+LinkedIn/video.mp4
+Tiktok/video.mp4
+DEPRECATED/
+yt-auth/
+creds_and_content/
+audio/
+AIVideoGeneration/__pycache__
+AIVideoGeneration/node_modules
+AIVideoGeneration/Images
+AIVideoGeneration/audio
+AIVideoGeneration/Videos
+
+# Additional entries
+Videos/
+AIVideoGeneration/Videos/LordHanuman/video.mp4
+.DS_Store
