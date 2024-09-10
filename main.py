@@ -517,7 +517,7 @@ def upload_to_youtube(video_details):
 #             print("Error output:", e.stderr)
 #             return False, e.stderr       
 def send_slack_message(message):
-    webhook_url = "https://hooks.slack.com/services/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"
+    webhook_url = os.getenv('SLACK_WEBHOOK_URL')
     
     payload = {
         "text": message
